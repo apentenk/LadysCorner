@@ -4277,7 +4277,7 @@ function sek_get_cfonts() {
 //
 // => Until June 2017, the webfonts have been stored in 'tc_gfonts' transient
 // => In June 2017, the Google Fonts have been updated with a new webfonts.json
-// generated from : https://www.googleapis.com/webfonts/v1/webfonts?key=AIzaSyBID8gp8nBOpWyH5MrsF7doP4fczXGaHdA
+// generated from : https://www.googleapis.com/webfonts/v1/webfonts?key=
 //
 // => The transient name is now : czr_gfonts_june_2017
 function sek_retrieve_decoded_gfonts() {
